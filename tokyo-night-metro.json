@@ -1,0 +1,23 @@
+{
+    "background": "#1A1B26",
+    "black": "#1A1B26",
+    "blue": "#7DCFFF",
+    "brightBlack": "#414868",
+    "brightBlue": "#7DCFFF",
+    "brightCyan": "#7DCFFF",
+    "brightGreen": "#9ECE6A",
+    "brightPurple": "#CFC9C2",
+    "brightRed": "#F7768E",
+    "brightWhite": "#FFFFFF",
+    "brightYellow": "#E0AF68",
+    "cursorColor": "#7DCFFF",
+    "cyan": "#565F89",
+    "foreground": "#CFC9C2",
+    "green": "#9ECE6A",
+    "name": "Tokyo Night Custom",
+    "purple": "#CFC9C2",
+    "red": "#F7768E",
+    "selectionBackground": "#414868",
+    "white": "#CFC9C2",
+    "yellow": "#E0AF68"
+}
