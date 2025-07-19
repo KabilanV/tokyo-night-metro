@@ -26,3 +26,14 @@ This theme applies Tokyo Night’s elegant dark tones and vibrant accents to Pow
 
 ### 3. Save & Restart Terminal
 
+--- 
+
+## ⚙️ If using Powerlevel10k (Optional)
+
+To match the theme and ensure your **Powerlevel10k** prompt folder path text is clean and consistent, add the following lines to your `~/.p10k.zsh` file:
+
+```zsh
+# Set all directory path text colors to black
+typeset -g POWERLEVEL9K_DIR_FOREGROUND=0
+typeset -g POWERLEVEL9K_DIR_SHORTENED_FOREGROUND=0
+typeset -g POWERLEVEL9K_DIR_ANCHOR_FOREGROUND=0
