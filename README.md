@@ -1,6 +1,7 @@
 # tokyo-night-metro
 A beautiful, minimal PowerShell theme for Windows Terminal
 
+Inspired by the aesthetics of a theme in **btop** by @aristocratos.
 This theme applies Tokyo Night’s elegant dark tones and vibrant accents to PowerShell using Windows Terminal's color scheme system.
 
 ---
